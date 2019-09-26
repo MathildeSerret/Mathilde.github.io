@@ -1,0 +1,32 @@
+body 
+{
+ font-family: 'Open Sans', sans-serif;
+}
+
+.hey
+{
+ color: #FFFAFA;
+}
+
+.jumbotron
+{
+ text-align: center;
+ background-size: cover;
+}
+
+.card
+{
+ text-align: left;
+ border: none;
+}
+
+i
+{
+ text-align: center;
+}
+
+h5
+{
+ text-align: center;
+}
+
